@@ -1,6 +1,6 @@
 # Logistics and Transportation Platform API
 
-A robust Node.js backend API for managing logistics and transportation operations.
+A robust backend API for managing logistics and transportation operations.
 
 ## Getting Started
 
